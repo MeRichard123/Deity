@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+svg {
+      width:  auto;
+      height: auto;
+}
