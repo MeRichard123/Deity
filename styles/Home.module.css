@@ -18,8 +18,7 @@
   align-items: center;
 }
 .img {
-  width:  auto;
-  height: auto;
+  max-height: 100%;
 }
 
 
