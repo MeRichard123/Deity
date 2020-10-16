@@ -19,3 +19,8 @@ svg {
       height: auto;
       margin:auto;
 }
+@media screen(max-width:900px){
+    svg{
+        height:50%
+    }
+}
