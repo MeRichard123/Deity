@@ -18,8 +18,10 @@
   align-items: center;
 }
 .img {
-  min-height: 20vh;
-  margin: 10px;
+  width:  auto;
+  height: auto;
+}
+
 }
 .footer {
   width: 100%;
