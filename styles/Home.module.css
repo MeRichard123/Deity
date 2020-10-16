@@ -16,6 +16,15 @@
   justify-content: center;
   align-items: center;
 }
+.img {
+  min-height: 20vh;
+  margin: 10px;
+}
+@media screen and (max-width: 900px) {
+  .img {
+    min-height: 10vh;
+  }
+}
 
 .footer {
   width: 100%;

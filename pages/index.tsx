@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <img src="img/Deity.svg" alt=""/>
+       <img className={styles.img} src="img/Deity.svg" alt=""/>
       </main>
 
       {/* <footer className={styles.footer}>
